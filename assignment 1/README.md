@@ -1,4 +1,4 @@
-# python-data-assignment
+# python-data-assignment/assignment 1/
 
 NetEase Cloud Music Dataset
 ====
@@ -22,8 +22,7 @@ Data Fields
 Data Volume
 -------
 
-50 rows 3 columns / each
-
+500 rows 3 columns 
 
 License
 -------
