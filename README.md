@@ -1,6 +1,6 @@
 # python-data-assignment
 
-NetEase Cloud Music Sataset
+NetEase Cloud Music Dataset
 ====
 
 
