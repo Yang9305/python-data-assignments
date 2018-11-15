@@ -8,6 +8,7 @@ Data Source
 -------
 
 This dataset contains Netease cloud music Top10 Chinese male singers' top 50 popular collections on website.
+* The revised dataset is based on the previous one which does not run effectively.
 
 Page:[网易云音乐](http://music.163.com/discover/artist/cat?id=1001)
 
