@@ -1,0 +1,3 @@
+# python-data-assignments/assignment 2
+## Brief Introduction
+### It has been the choice of many people to open DianPing when choosing restaurants. /Dianping is very popular in mainland China, but more people in Hong Kong will use OpenRice for regional reasons. Now, DianPing has also produced accommodation, food, life and other services in overseas regions. As a food paradise, Hong Kong's pages in DianPing is full of the comments of all kinds of foodies. This web analysis is based on the Hong Kong food list of DianPing as the background, through data analysis to see where people's favorite eating areas are and which dishes they like to eat the most.
